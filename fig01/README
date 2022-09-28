@@ -1,0 +1,9 @@
+Choose protein .pdb file with .seq and .br files, then run minim.c changing
+some of its parameters accordingly to the protein choice.
+
+In particular, there are a few parameters to be set:
+- length = number of amino acids;
+- nnbr = number of bridge contacts; get it from protein.br number of rows, `wc -l protein.br`
+- ReadSequence("proteins/protein.seq",seq,length); pick the chosen protein from the proteins directory
+- Read_V("potential_matrix.mat",v); pick the potential of your choice. If you
+  want to shuffle symmetrically the potential entries use the shuffler.py script.

@@ -1,0 +1,3 @@
+Compute different graph contributions to the partition function.
+This is just a simple loop over all the involved (i.e., linked) amino acid pairs.
+More graphs can be added similarly.

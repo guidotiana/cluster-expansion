@@ -1,0 +1,20 @@
+SIMULATED TEMPERING STATISTICS  (step=9999984399):
+        T=300.000000    p_up=0.000000   p_down=0.585665 g=0.000000
+        T=145.456538    p_up=0.319119   p_down=0.275280 g=-1.032970
+        T=97.077430     p_up=0.314384   p_down=0.272015 g=-3.154575
+        T=75.849555     p_up=0.330625   p_down=0.264948 g=-6.047155
+        T=63.794469     p_up=0.343193   p_down=0.253827 g=-9.610331
+        T=54.322560     p_up=0.341834   p_down=0.236176 g=-14.671999
+        T=44.790054     p_up=0.322330   p_down=0.234786 g=-23.377490
+        T=36.401022     p_up=0.307986   p_down=0.258924 g=-36.375595
+        T=30.461409     p_up=0.327185   p_down=0.249721 g=-51.229969
+        T=25.587584     p_up=0.337045   p_down=0.240264 g=-69.891485
+        T=21.621508     p_up=0.352479   p_down=0.230472 g=-92.606635
+        T=18.270175     p_up=0.722368   p_down=0.000000 g=-120.761527
+lp_tot/n=-2.148529
+Calculates thermdynamics
+9999990000 -1045  97.077430  QTYAQRPTVDWAPDSQSDKDCIQDPQVIVICETCEAAQYWVSREPCVCCRFCFDWGW
+----- Minimum (E=-3754) -----
+WPDTKRDDSSQAFWVVAWAVPPDQRPTQDESQYWIIIAVDVREEQQTFCCCCCCCYG
+
+ e_av=-1095.640259

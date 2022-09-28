@@ -1,0 +1,7 @@
+chemical potentials are obtained from the definition of free energy
+$$
+  F = U - TS + \mu N,
+$$
+with $F = -(\ln Z)/\beta$.
+One firstly compute $U$ and $S$ with the scripts, then computes the chemical
+potential by subtracting energy and entropy from the free energy.

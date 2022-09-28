@@ -1,0 +1,4 @@
+It is the same script as the one in `fig02` directory with only star-, path- or
+cycle-graphs, increasing the graph size.
+Furhter graphs may be added cut-and-pasteing chunks of codes associated with smaller graphs.
+Just add enough expm1(-beta*E) with the correct involved nodes...
